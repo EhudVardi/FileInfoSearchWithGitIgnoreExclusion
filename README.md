@@ -10,9 +10,9 @@ once dropped, the app will match all files and folders using the ignore text, an
 
 # Environment Installation
  - Make sure you have python installed on your system
- - Install python dependencies: tkinterdnd2, pathspec, os, fnmatch
- - - pip install tkinterdnd2
- - - pip install pathspec
+ - Install python dependencies: tkinterdnd2, pathspec, os, fnmatch\
+`pip install tkinterdnd2`\
+`pip install pathspec`
 
 # How to run
 execute the script and a window will show.
